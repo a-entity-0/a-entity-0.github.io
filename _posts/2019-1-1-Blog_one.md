@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature map
+title: Training network in AI
 ---
 
 Mapping of input image where a certain kind of feature is found .It's done by activation of outputs with a kernel/filter applied on input image with a certain receptive field. 

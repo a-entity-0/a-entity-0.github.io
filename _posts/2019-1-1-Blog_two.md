@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1x1 Convolution
+title: Learning curve of any work
 ---
 
 
