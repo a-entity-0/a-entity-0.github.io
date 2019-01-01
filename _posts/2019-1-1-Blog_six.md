@@ -1,3 +1,4 @@
 ---
-layout: Learning curve of work
+layout: post
+title: Learning curve of work
 ---
