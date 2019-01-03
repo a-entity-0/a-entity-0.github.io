@@ -1,1 +1,1 @@
-This is an extract the came in my mind and it is a draft version 
+This is an extract that came in my mind and it is a draft version 
